@@ -2,7 +2,6 @@
 
 <img align='right' src='https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif' width='15%'>  
 
-* 👨‍💻 `My name is`: **Mark**,
 * ⚡ `I'm`: **18 years old**,
 * 🎓 `I’m currently learning`: **C++**,
 * ❤️ `I love`: **Monster Ultra White**,
