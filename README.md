@@ -5,7 +5,8 @@
 * 👨‍💻 `My name is`: **Mark**,
 * ⚡ `I'm`: **18 years old**,
 * 🎓 `I’m currently learning`: **C++**,
-* ❤️ `I love`: **Dota 2**,
+* ❤️ `I love`: **Monster Ultra White**,
+* 🎮 `I play`: **Dota 2**,
 * 💻 `Favorite lang`: **C++** 
 
 <h2 align="center">⚙Programming languages</h2>
