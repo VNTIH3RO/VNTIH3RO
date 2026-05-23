@@ -5,7 +5,7 @@
 * ⚡ `I'm`: **18 years old**,
 * 🎓 `I’m currently learning`: **C++**, **Typescript + React**,
 * ❤️ `I love`: **Monster Ultra White**,
-* 🎮 `I play`: **Dota 2**, **Deadlock**
+* 🎮 `I play`: **Dota 2**, **Deadlock**,
 * 💻 `Favorite lang`: **C++** 
 
 <h2 align="center">⚙Programming languages</h2>
