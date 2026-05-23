@@ -24,8 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=VNTIH3RO&color=blueviolet&abbreviated=true">
 </p>
 
-<h2 />
-<h4 align="center">💬Social Media</h4>
+<h2 align="center">💬Social Media</h2>
 <p align="center">
 <a href="https://t.me/qmaJk" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/mark.nosurname" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white"/></a>
