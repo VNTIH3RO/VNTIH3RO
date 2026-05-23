@@ -17,8 +17,6 @@
 
 <h2 align="center">☕Stats</h2>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VNTIH3RO&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VNTIH3RO&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=VNTIH3RO&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
@@ -26,7 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=VNTIH3RO&color=blueviolet&abbreviated=true">
 </p>
 
-<h2 align="center"></h2>
+<h2 />
 <h4 align="center">💬Social Media</h4>
 <p align="center">
 <a href="https://t.me/qmaJk" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
