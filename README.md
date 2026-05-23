@@ -8,6 +8,7 @@
 * 🎮 `I play`: **Dota 2**, **Deadlock**,
 * 💻 `Favorite lang`: **C++** 
 
+<br /> <br />
 <h2 align="center">⚙Programming languages</h2>
 <p align="center">
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=white&color=purple"></a>
@@ -15,6 +16,7 @@
 <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-white?logo=Typescript&logoColor=white&color=purple"></a>
 </p>
 
+<br />
 <h2 align="center">☕Stats</h2>
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=VNTIH3RO&theme=material-palenight&hide_border=true&background=FFFFFF00">
@@ -24,6 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=VNTIH3RO&color=blueviolet&abbreviated=true">
 </p>
 
+<br />
 <h2 align="center">💬Social Media</h2>
 <p align="center">
 <a href="https://t.me/qmaJk" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
