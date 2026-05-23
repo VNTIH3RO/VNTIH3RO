@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20i'm%20Mark.&section=header&reversal=true&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20i'm%20Ilya.&section=header&reversal=true&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=45">
 
 <img align='right' src='https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif' width='15%'>  
 
 * ⚡ `I'm`: **18 years old**,
-* 🎓 `I’m currently learning`: **C++**,
+* 🎓 `I’m currently learning`: **C++**, **Typescript + React**,
 * ❤️ `I love`: **Monster Ultra White**,
-* 🎮 `I play`: **Dota 2**,
+* 🎮 `I play`: **Dota 2**, **Deadlock**
 * 💻 `Favorite lang`: **C++** 
 
 <h2 align="center">⚙Programming languages</h2>
