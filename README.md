@@ -19,11 +19,11 @@
 <br />
 <h2 align="center">☕Stats</h2>
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=VNTIH3RO&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=dehashednotavailable&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=VNTIH3RO&color=blueviolet&abbreviated=true">
+<img src="https://komarev.com/ghpvc/?username=dehashednotavailable&color=blueviolet&abbreviated=true">
 </p>
 
 <br />
