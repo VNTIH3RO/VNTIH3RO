@@ -10,8 +10,9 @@
 
 <h2 align="center">⚙Programming languages</h2>
 <p align="center">
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=white&color=purple"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-white?logo=C%2B%2B&logoColor=white&color=purple"></a>
+<a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-white?logo=Typescript&logoColor=white&color=purple"></a>
 </p>
 
 <h2 align="center">☕Stats</h2>
